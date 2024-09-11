@@ -15,12 +15,11 @@ O jogo se passa na Grécia em um hotel que foi tomado por um culto que idolatra 
 
 ## 📱Funcionalidades do Projeto
   
-  - [x] Enviar Email
+  - [ ] Enviar Email
 
  ## 🖥️Layout
-   ![Home](./image/Home.jpg)
-   ![Agente](./image/Agente.jpg)
-   ![Contato](./image/Contato.jpg)
+  <img src="./image/Home.jpg"  width="504" height="566"/>  <img src="./image/Contato.jpg"  width="503" height="566"/>
+  <img src="./image/Agente.jpg"/>
    
 ##  Site do projeto?
 https://georgejcs.github.io/BigCrunch/
