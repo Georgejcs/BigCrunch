@@ -12,3 +12,17 @@ O jogo se passa na Grécia em um hotel que foi tomado por um culto que idolatra 
 - George José - 01430653
 - Israel Viegas - 01433868
 
+
+## 📱Funcionalidades do Projeto
+  
+  - [x] Enviar Email
+
+ ## 🖥️Layout
+   ![Home](./image/Home.jpg)
+   ![Agente](./image/Agente.jpg)
+   ![Contato](./image/Contato.jpg)
+   
+##  Site do projeto?
+https://georgejcs.github.io/BigCrunch/
+  
+
