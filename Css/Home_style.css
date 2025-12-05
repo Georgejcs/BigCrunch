@@ -58,12 +58,12 @@ body {
 }
 
 .list_header li:hover {
-    border-bottom: 0.2vw solid #d60000;
+    border-bottom: 0.2vw solid #000000;
 
 }
 
 .logo {
-    width: 20vw;
+    width: 10vw;
 }
 
 .paper_1 {
