@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  big-volume:
+    container_name: big-test
+    build: .
+    ports:
+      - 80:80
+    volumes:
+      - big-volume:/usr/share/nginx/html/*
+    
+volumes:
+  big-volume:
